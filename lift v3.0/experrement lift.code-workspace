@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../experrement lift"
+		},
+		{
+			"path": "../Menu"
+		},
+		{
+			"path": "../exxpp"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../load3D"
+		},
+		{
+			"path": "../../sotbit"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lift v2.0"
+	}
+}
